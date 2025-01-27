@@ -47,7 +47,7 @@ function LandingPage() {
               </div>
               <div className="col-md-4 mt-3">
                <Card style={{ width: "100%" }}>
-                  <Card.Img variant="top" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFobmtjcWk3aXppMzR4Z2VoZjFweGljMzR2c3lseGJndGs0cWQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSR7gBPP6VvWfRxBT4/giphy.gif"/>
+                  <Card.Img variant="top" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NsaDJqdnMzMjJ0a3ZpZnVxdXozaWpiN2RpZ2MwbnVhMm10b2F5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFc7jho1YZH2ekEGx/giphy.gif"/>
                   <Card.Body>
                     <Card.Title>Card Title</Card.Title>
                     <Card.Text>
