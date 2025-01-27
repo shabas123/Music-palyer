@@ -12,7 +12,7 @@ function LandingPage() {
       <Container fluid className='mt-5'>
         <Row className='mt-5'>
           <Col sm={12} md={6}>
-            <h3 >Welcome to <span className='text-warning'>Media Player</span></h3>
+            <h2 >Welcome to <span className='text-warning'>Media Player</span></h2>
             <p className='mt-3' style={{ textAlign: "justify" }}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique corrupti odit sed temporibus alias delectus dolorem eius doloremque rerum saepe quis repellendus, placeat commodi ex? Harum assumenda velit tenetur nihil! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis incidunt error sapiente voluptate suscipit amet maxime quia id sint, nostrum quaerat aut hic ullam eos ad cupiditate commodi neque perferendis porro autem exercitationem dolor. Rerum corporis repudiandae voluptate error exercitationem nobis necessitatibus sunt fuga, commodi enim aliquam quos minima tempora.</p>
             <button className='btn btn-warning'>Get Started</button>
           </Col>
