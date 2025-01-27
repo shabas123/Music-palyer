@@ -12,7 +12,7 @@ function Footer() {
       <div className="container-fluid">
         <div className="row">
           <div className="col-md-4 col-sm-12">
-           <h4 style={{textAlign:"justify"}}  className='text-warning'><FontAwesomeIcon icon={faVideo} beat className='me-3' /> Media Player</h4>  
+           <h4 className='text-warning'><FontAwesomeIcon icon={faVideo} beat className='me-3' /> Media Player</h4>  
             <p style={{textAlign:"justify"}} className='mt-3' > Sequi maxime incidunt, ipsum magni perspiciatis libero dolorum veniam ducimus laborum, voluptatum eius quam sint corrupti enim doloremque aliquid. Maxime, nostrum voluptatum. Pariatur est aperiam rerum et nobis.</p>
           </div>
           <div className="col-md-2 col-sm-12 mt-3 ">
